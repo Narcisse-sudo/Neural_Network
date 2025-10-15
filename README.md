@@ -1,4 +1,4 @@
-readme_content = """# Implémentation de Réseaux de Neurones
+# Implémentation de Réseaux de Neurones
  
 Ce projet présente l’implémentation d’un réseau de neurones à une couche et à deux couches réalisée à partir de zéro avec Python.  
 L’objectif est de comprendre en profondeur le fonctionnement des réseaux de neurones à travers la propagation avant, le calcul de la perte et la rétropropagation du gradient.
